@@ -1,1 +1,4 @@
 # node-weather
+This is another project in [Andrew Mead's](https://mead.io/) udemy course on node. I have already worked on a similar [project](https://github.com/rf-spuds/weatherdashboard) that was purely client-side. This is currently unfinished and much of that is due to aesthetics. Another reason this is not currently completed is because I was unable to obfuscate my API keys given that everything happens on the client-side. 
+
+Since this project ultimately uses express and a templating engine, I am going to refactor my old project in this vein. This was a big step up from the previous project in this course, which a CLI based app. 
