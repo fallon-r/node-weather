@@ -24,7 +24,7 @@ app.use(express.static(publicDirectory));
 // Routes
 
 app.get("", (req, res) => {
-  res.render("weather", {
+  res.render("index", {
     title: "Weather",
   });
 });
